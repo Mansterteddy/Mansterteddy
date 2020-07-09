@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Microsoft.
+- 🔭 I’m currently working on onnx, onnxruntime, TensorRT, Transformer.
+- 🌱 I’m currently reading SICP and PRML.
+- 🤔 I want to read Convex Optimization.
