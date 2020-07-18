@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on onnx, onnxruntime, TensorRT, Transformer.
-- 🌱 I’m currently reading SICP and PRML.
-- 🤔 I want to read Convex Optimization.
+- 🔭 I’m currently working on onnx, onnxruntime, TensorRT and Transformers.
+- 🌱 I’m currently learning CS221 and CS224N.
+- 🤔 I want to read PRML, SICP and Convex Optimization.
