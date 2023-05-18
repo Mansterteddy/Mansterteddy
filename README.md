@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m working on onnx, onnxruntime, TensorRT and Transformers.
-- 🤔 I want to read PRML, SICP and Convex Optimization.
+- 💬 Ask me about LLM, multi-gpus serving and Chatbot.
