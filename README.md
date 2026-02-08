@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m working on onnx, onnxruntime, TensorRT and Transformers.
-- 💬 Ask me about LLM, multi-gpus serving and Chatbot.
+- 🔭 I’m working for Bing Search Engine.
+- 💬 Ask me about Search Engine, Search Agent, LLM and multi-gpus serving.
