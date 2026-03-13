@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m working for Bing Search Engine.
-- 💬 Ask me about Search Engine, Search Agent, LLM and multi-gpus serving.
+- 💬 Ask me about Search Engine, Bing Grounding MCP, Search Agent and LLM.
